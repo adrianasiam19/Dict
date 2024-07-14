@@ -1,0 +1,1 @@
+This code demonstrates the use of dictionaries to store and print values, utilizing loops and conditional statements to interact with data, including engineering programs, favorite programming languages, and user input responses.
